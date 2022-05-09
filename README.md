@@ -4,5 +4,5 @@ The General Services Administration's ([GSA](https://www.gsa.gov/)) Office of th
 We will advocate for modern software development best practices – such as iterative development, product management, user-centered design, and acquisition strategies to support this work.
 
 # See more
-- Goals and measures
+- [Goals and measures](https://github.com/GSA/service-delivery/blob/main/Goals_Measures.md)
 - Project evaluation matrix
