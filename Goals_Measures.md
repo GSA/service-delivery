@@ -7,7 +7,7 @@
 
 ## FY22 Measures
 ### 1. Help programs to deliver digital services that are easy to use and support. 
-- 1 public-facing MVP created; easily maintainable and does not add cost, documented well enough that the partner can make updates.
+- 1 public-facing MVP created; easily maintainable and does not add cost, documented well enough that the partner can make updates
 - 1 internal efficiency created
 - In all projects, clear picture of who the users are
 - Meets accessibility best practices; Meets Web Content Accessibility Guidelines 2.1 AA standards, using [Pa11y](https://github.com/pa11y/pa11y) – 0 errors reported using an automated scanner, and 0 errors reported in manual testing
