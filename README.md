@@ -4,5 +4,5 @@ The General Services Administration's (GSA) Office of the Deputy Administrator i
 We will advocate for modern software development best practices – such as iterative development, product management, user-centered design, and acquisition strategies to support this work.
 
 # See more
-Goals and measures
-Project evaluation matrix
+- Goals and measures
+- Project evaluation matrix
