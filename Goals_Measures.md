@@ -17,7 +17,7 @@
 - Contract terms and conditions are set up for the government to be the empowered product owner
 - Designated product owner and technical lead understand contractor post-award management duties 
 
-### 3. Coach and model product mindset and modern software development best practices with GSA employees.
+### 3. Coach and model product management, user-centered design, and modern software development best practices with GSA employees.
 - Reduce lead time from idea to production
 - Coach 1 product owner
 - Work is done transparently; code / documentation is in an accessible location, stakeholders are invited to sprint reviews
