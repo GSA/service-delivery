@@ -3,7 +3,7 @@
 ## Goals
 1. Help programs to deliver digital services that are easy to use and support. 
 2. Help structure contracts to support agile development.
-3. Coach and model product mindset, user-centered design, and modern software development best practices with GSA employees.
+3. Coach and model product management, user-centered design, and modern software development best practices with GSA employees.
 
 ## FY22 Measures
 ### 1. Help programs to deliver digital services that are easy to use and support. 
