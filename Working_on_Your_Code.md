@@ -10,6 +10,8 @@ We would like to work collaboratively in a low-friction, low-risk way. GitHub en
 
 * **It saves you time** by reducing the manual steps your team needs to take in order to incorporate our code into the repository.
 
+* **It let's you understand what changes we're making and why** by in-line code suggested edits so people can see the proposed change and we can provide a justification. 
+
 * **It provides an audit trail**, showing exactly who submitted what code and when.
 
 ### What it means to grant write access in GitHub:
