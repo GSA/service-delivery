@@ -1,7 +1,7 @@
 # Engineers 
 GSA's Office of the Deputy Administrator is establishing a new GSA Service Delivery team. This cross-functional team of technical experts' mission is to evolve and expand digital service delivery capabilities across GSA to meaningfully impact end-user experiences. 
 
-The GSA Service Delivery team is hiring for 2-3 GS-15 permanent / career engineers. This is a remote position. 
+The GSA Service Delivery team is hiring 2-3 GS-15 permanent / career engineers. This is a remote position. 
 
 Engineers are crucial to improving GSA products, platforms, and service. This is an opportunity to make a huge impact in the lives of public servants, GSA customers, GSA suppliers, and members of the public. 
 
