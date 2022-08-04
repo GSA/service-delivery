@@ -25,7 +25,7 @@ The GSA Service Delivery team is hiring for 2-3 [GS-15](https://www.opm.gov/poli
 
 ## Hiring for these positions has closed
 
-The GSA Service Delivery team has hired for three [GS-15](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule/) permanent / career federal roles:
+The GSA Service Delivery team has hired three [GS-15](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule/) permanent / career federal roles:
 
 - [Product Manager](team/Product_Manager.md)
 - [User Experience Designer](team/User_Experience_Designer.md)
