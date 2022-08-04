@@ -116,9 +116,9 @@ For each job on your resume, provide:
 - Number of hours per week you worked (if part time)
 
 To qualify for this role, you must have one year of specialized experience. Specialized experience is:
-1. Experience leading user research, usability testing, experience design, product design, or content design for a product, platform, or service.
-2. Experience with iterative or agile development methodologies. 
-3. Experience building alignment with stakeholders.
+1. Experience developing or architecting complex modern web applications, backend services, or cloud infrastructure using approaches or tools such as test-driven development, continuous integration & deployment, modern version control systems such as github or gitlab, or dependency management tools
+2. Experience with iterative or agile development methodologies.
+3. Experience with building alignment with stakeholders.
 
 ### How to Apply
 We will be accepting applications through the Public Notice on USAJOBS from Thursday, August 4 through Thursday, August 18. [Apply here](https://www.usajobs.gov/job/669448000)!  
