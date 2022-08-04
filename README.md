@@ -17,7 +17,13 @@ We advocate for modern software development best practices – such as iterative
 
 # Positions
 
-## Hiring is currently closed
+## Open hiring
+
+The GSA Service Delivery team is hiring for 2-3 [GS-15](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule/) permanent / career federal roles:
+
+- Engineers
+
+## Hiring for these positions has closed
 
 The GSA Service Delivery team has hired for three [GS-15](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule/) permanent / career federal roles:
 
