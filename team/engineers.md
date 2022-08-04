@@ -22,7 +22,7 @@ GSA is looking for engineers with experience in:
 
 These roles will be a great fit for you if you:
 - Can listen, understand, and then act 
-- Can coach, mentor, and model to partners modern user-centered content best practices so they’re set up for success in the long-term
+- Can coach, mentor, and model modern software development best practices so teams are set up for success in the long-term
 - Have strong delivery skills to deliver results to GSA stakeholders and the public
 - Are comfortable working with people from many organizations and disciplines
 - Are equally excited about sticky technical issues and complex human / organizational ones
