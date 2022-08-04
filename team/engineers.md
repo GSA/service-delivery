@@ -56,7 +56,7 @@ Successful engineers on the GSA Service delivery team:
 - Help teammates and stakeholders navigate complex bureaucratic relationships to solve problems collaboratively for end-users
 - Take time to understand underlying problems, to best advise on path forward
 - Advocate for and explain modern software development best practices – such as, agile, open source, DevSecOps, and user-centered design principles so that teammates, stakeholders, and government partners understand their value
-- Improve the government’s contractor performance management capacity by coaching and mentoring GSA engineers on how to conduct code reviews against an established quality assurance surveillance plan ([QASP](https://derisking-guide.18f.gov/qasp/)
+- Improve the government’s contractor performance management capacity by coaching and mentoring GSA engineers on how to conduct code reviews against an established quality assurance surveillance plan ([QASP](https://derisking-guide.18f.gov/qasp/))
 - Share knowledge, techniques, tools, patterns, and expert advice with partners
 - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term
 - Lead change across GSA to meet mission needs and organizational goals
