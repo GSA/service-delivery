@@ -8,7 +8,7 @@ Engineers are crucial to improving GSA products, platforms, and service. This is
 ## Opportunity Overview
 This opportunity is located in the General Services Administration (GSA), Office of the Deputy Administrator. GSA’s mission is to deliver value and savings in real estate, acquisition, and technology to the government and public. 
 
-The GSA Service Delivery team will pair with GSA programs to expand digital service capabilities and delivery of digital service to end-users. We will advocate for modern software development best practices – such as iterative development, product management, user-centered design, and acquisition strategies to support this work.
+The GSA Service Delivery team will pair with GSA programs to expand digital service capabilities and delivery of digital services to end-users. We will advocate for modern software development best practices – such as iterative development, product management, user-centered design, and acquisition strategies to support this work.
 
 ### Role Summary
 GSA is looking for talented engineers who will partner with GSA teams to deliver digital services to GSA customers, suppliers, government employees, and members of the public. You’ll work on a cross-functional team to solve large, complex problems and consult with GSA programs to deliver user-centered products using agile methodologies and modern software development practices.
@@ -51,11 +51,11 @@ Successful engineers on the GSA Service delivery team:
 #### Key Objective 2: Support GSA partners in delivering results to end-users
 As an engineer with the GSA Service Delivery team, a big part of the job is creating sustainable outcomes and benefits to GSA customers, suppliers, government employees, and the public. You’ll help ensure products, platforms, and services are sustained for long-term success. As part of that, you’ll share your expertise and experience with your teammates and GSA stakeholders to build modern software development best practices across the agency.
 
-Successful engineers on the GSA Service delivery team:
+Successful engineers on the GSA Service Delivery team:
 - Help partners understand how to deliver value, rather than features, to their users
 - Help teammates and stakeholders navigate complex bureaucratic relationships to solve problems collaboratively for end-users
 - Take time to understand underlying problems, to best advise on path forward
-- Advocate for and explain modern software development best practices – such as, agile, open source, DevSecOps, and user-centered design principles so that teammates, stakeholders, and government partners understand their value
+- Advocate for and explain modern software development best practices – such as agile, open source, DevSecOps, and user-centered design principles so that teammates, stakeholders, and government partners understand their value
 - Improve the government’s contractor performance management capacity by coaching and mentoring GSA engineers on how to conduct code reviews against an established quality assurance surveillance plan ([QASP](https://derisking-guide.18f.gov/qasp/))
 - Share knowledge, techniques, tools, patterns, and expert advice with partners
 - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term
