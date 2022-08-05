@@ -74,7 +74,7 @@ As an engineer with the GSA Service Delivery team, you’ll be working as part o
 - Uses contradictory opinions as a basis for constructive, productive conversations
 
 ### Information Sessions
-Join us to learn more about GSA, the team, and government hiring processes! We'll be sure to leave time for any questions you may have.
+Join us to learn more about GSA, the team, and the government hiring process! We'll be sure to leave time for any questions you may have.
 
 - Tuesday, August 9th at 3:00 pm ET | [Google Meet](https://meet.google.com/dku-zzmu-kcj?authuser=0&pli=1)
 - Tuesday, August 16th at 1:00 pm ET | [Google Meet](https://meet.google.com/yhz-jmid-dkw?authuser=0)
