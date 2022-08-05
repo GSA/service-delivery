@@ -37,5 +37,5 @@ The Spring 2022 hiring information session deck can be found [here](team/GSA_Ser
 
 # Questions
 
-Please email [victoria.mcfadden@gsa.gov](mailto:victoria.mcfadden@gsa.gov).
+Please email [servicedelivery@gsa.gov](mailto:servicedelivery@gsa.gov).
 
