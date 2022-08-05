@@ -1,5 +1,5 @@
 # Engineers 
-GSA's Office of the Deputy Administrator established a new GSA Service Delivery team. This cross-functional team of technical experts' mission is to evolve and expand digital service delivery capabilities across GSA to meaningfully impact end-user experiences. 
+GSA's Office of the Deputy Administrator established a new [GSA Service Delivery team](https://github.com/GSA/service-delivery). This cross-functional team of technical experts' mission is to evolve and expand digital service delivery capabilities across GSA to meaningfully impact end-user experiences. 
 
 The GSA Service Delivery team is hiring 2-3 GS-15 permanent / career engineers. This is a remote position. 
 
@@ -72,6 +72,12 @@ As an engineer with the GSA Service Delivery team, you’ll be working as part o
 - Constructively addresses situations, issues, and behaviors – able to initiate difficult conversations and clearly communicate corrective actions
 - Recognize and flag stress and fatigue in others to support their continued wellbeing
 - Uses contradictory opinions as a basis for constructive, productive conversations
+
+### Information Sessions
+Join us to learn more about GSA, the team, and government hiring processes! We'll be sure to leave time for any questions you may have.
+
+- Tuesday, August 9th at 3:00 pm ET | [Google Meet](https://meet.google.com/dku-zzmu-kcj?authuser=0&pli=1)
+- Tuesday, August 16th at 1:00 pm ET | [Google Meet](https://meet.google.com/yhz-jmid-dkw?authuser=0)
 
 ### Basic Information
 **Location:** Virtual
