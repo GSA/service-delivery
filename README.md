@@ -33,7 +33,8 @@ The GSA Service Delivery team has hired three [GS-15](https://www.opm.gov/policy
 
 ## Information Session
 
-The Spring 2022 hiring information session deck can be found [here](team/GSA_Service_Delivery_Info_Session.pdf).
+- Summer 2022 hiring [information session deck](https://github.com/GSA/service-delivery/blob/main/team/GSA%20Service%20Delivery%20_%20Info%20Session%20_%20Aug%202022.pdf)
+- Spring 2022 hiring [information session deck](team/GSA_Service_Delivery_Info_Session.pdf).
 
 # Questions
 
