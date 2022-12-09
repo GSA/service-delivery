@@ -13,6 +13,7 @@ The GSA Service Delivery team will pair with GSA programs to expand digital serv
 | <a href="https://user-images.githubusercontent.com/6501138/192807385-86519c85-da0d-4822-88ae-172a1c36967f.png"><img src="https://user-images.githubusercontent.com/6501138/192804979-d26335b2-35e8-4ca6-babc-d1da0f27fead.png" alt="picture of Jenn Noinaj" width="100" height="100"></a> | Jenn Noinaj | Design Strategist |
 | <img src="https://user-images.githubusercontent.com/6501138/192805117-edd740f6-65a2-4eb5-98e0-006ca69363fe.png" alt="picture of Jeff Fredrickson" width="100" height="100"> | Jeff Fredrickson | Engineer |
 | <img src="https://user-images.githubusercontent.com/6501138/192805382-54c150d7-0ca7-4505-9de9-2e474b500b52.png" alt="picture of Mark Meyer" width="100" height="100"> | Mark Meyer | Engineer |
+| <img src="https://user-images.githubusercontent.com/119954777/206807327-521b1022-e6d7-4a73-a124-1badd236d27d.png" alt="picture of Wei Wang" width="100" height="100"> | Wei Wang | Engineer |
 | <img src="https://user-images.githubusercontent.com/6501138/192805611-fe020957-226f-4c65-844c-6536caa47ebf.png" alt="picture of Ashley Owens" width="100" height="100"> | Ashley Owens | Acquisition Strategist |
 
 # How we work
