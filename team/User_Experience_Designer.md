@@ -1,7 +1,7 @@
 # User Experience Designer (application period now closed)
-GSA's Office of the Deputy Administrator is establishing a new GSA Service Delivery team. This cross-functional team of technical experts' mission is to evolve and expand digital service delivery capabilities across GSA to meaningfully impact end-user experiences. 
+GSA's Office of the Deputy Administrator established a new GSA Service Delivery team. This cross-functional team of technical experts' mission is to evolve and expand digital service delivery capabilities across GSA to meaningfully impact end-user experiences. 
 
-The GSA Service Delivery team is hiring for a GS-15 permanent / career user experience designer. This is a remote position. 
+The GSA Service Delivery team is hiring for 1-2 GS-15 permanent / career user experience designer. This is a remote position. 
 
 User experience designers are crucial to improving GSA products, platforms, and service. This is an opportunity to make a huge impact in the lives of public servants, GSA customers, GSA suppliers, and members of the public.  
 
@@ -11,9 +11,9 @@ This opportunity is located in the General Services Administration (GSA), Office
 The GSA Service Delivery team will pair with GSA programs to expand digital service capabilities and delivery of digital service to end-users. We will advocate for modern software development best practices – such as iterative development, product management, user-centered design, and acquisition strategies to support this work.
 
 ### Role Summary
-GSA is looking for a talented user experience designer who will partner with GSA teams to deliver digital services to GSA customers, suppliers, government employees, and members of the public. You’ll work on a cross-functional team to solve large, complex problems and consult with GSA programs to deliver user-centered products using agile methodologies and modern software development practices.
+GSA is looking for one to two talented user experience designers who will partner with GSA teams to deliver digital services to GSA customers, suppliers, government employees, and members of the public. You’ll work on a cross-functional team to solve large, complex problems and consult with GSA programs to deliver user-centered products using agile methodologies and modern software development practices.
 
-GSA is looking for a user experience designer with experience in: 
+GSA is looking for user experience designers with experience in: 
 - Driving research activities, deriving insights, generating concepts, communicating those concepts visually, and working with a cross functional team to build and test them
 - Working on cross-functional development teams to develop and launch or grow existing, in-market products, platforms, or services
 - Consulting with teams to foster sustainable best practices for user-centered design
@@ -125,5 +125,5 @@ To qualify for this role, you must have one year of specialized experience. Spec
 3. Experience building alignment with stakeholders.
 
 ### How to Apply
-We will be accepting applications through the Public Notice on USAJOBS from Thursday, March 10 through Thursday, March 24. [Apply here](https://www.usajobs.gov/job/642032400)!  
+We will be accepting applications through the Public Notice on USAJOBS from Friday, December 9 through Friday, January 6. [Apply here](https://www.usajobs.gov/job/693941200)!  
 
