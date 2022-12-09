@@ -29,7 +29,7 @@ We advocate for modern software development best practices – such as iterative
 # Positions
 
 ## Hiring for these positions are open
-The GSA Service Delivery team is currently hiring 1-2 GS-15(https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule/) permanent/career federal roles:
+The GSA Service Delivery team is currently hiring 1-2 [GS-15](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule/) permanent/career federal roles:
 - [User Experience Designer](team/User_Experience_Designer.md)
 
 ## Hiring for these positions has closed
