@@ -1,4 +1,4 @@
-# User Experience Designer (application period now closed)
+# User Experience Designer (application open!)
 GSA's Office of the Deputy Administrator established a new GSA Service Delivery team. This cross-functional team of technical experts' mission is to evolve and expand digital service delivery capabilities across GSA to meaningfully impact end-user experiences. 
 
 The GSA Service Delivery team is hiring for 1-2 GS-15 permanent / career user experience designer. This is a remote position. 
