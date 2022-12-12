@@ -77,6 +77,14 @@ As a user experience designer with the GSA Service Delivery team, you’ll be wo
 - Recognize and flag stress and fatigue in others to support their continued wellbeing
 - Uses contradictory opinions as a basis for constructive, productive conversations
 
+
+### Information Sessions
+Join us to learn more about GSA, the team, and the government hiring process! We'll be sure to leave time for any questions you may have.
+
+* Tuesday, December 20th at 12PM ET | [Zoom Registration](https://gsa.zoomgov.com/webinar/register/WN_cceV6TiuS5mwxiHXAeoQiw)
+* Wednesday, December 28th at 3PM ET | [Zoom Registration](https://gsa.zoomgov.com/webinar/register/WN_Et5iVu2WTaKuAgNBDV8gzw)
+* Thursday, January 5th at 5PM ET | [Zoom Registration](https://gsa.zoomgov.com/webinar/register/WN_ZjWeHWksSoS4KNlINMV81Q)
+
 ### Basic Information
 **Location:** Virtual
 
