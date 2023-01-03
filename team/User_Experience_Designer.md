@@ -81,20 +81,16 @@ As a user experience designer with the GSA Service Delivery team, you’ll be wo
 ### Information Sessions
 Join us to learn more about GSA, the team, and the government hiring process! We'll be sure to leave time for any questions you may have.
 
-* Wednesday, December 28th at 3PM ET | [Zoom Registration](https://gsa.zoomgov.com/webinar/register/WN_Et5iVu2WTaKuAgNBDV8gzw)
 * Thursday, January 5th at 5PM ET | [Zoom Registration](https://gsa.zoomgov.com/webinar/register/WN_ZjWeHWksSoS4KNlINMV81Q)
 
 ### Basic Information
 **Location:** Virtual
 
-**Salary range:** The salary range for this position is: 
-- GS-15, Step 1 - $131,178 to GS-15, Step 10 - $176,300
+**Salary range:** This is a GS-15 role and the salary range for this position will be based on your location. For example, the GS-15 range for someone located in the [DC area](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2023/DCB.pdf) will be $155,700 - $183,500. To see what the range will be for where you are located, visit [OPM's 2023 General Schedule (GS) Locality Pay Tables](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule) or [OPM’s 2023 General Schedule (GS) salary calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/).
 
-Salary will be determined upon selection, depending on duty location. For specific details on locality pay, visit [OPM’s Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or [OPM’s 2021 General Schedule (GS) salary calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
-
-The current maximum salary available for the GS pay system is **$176,300**. However, you may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality.
-
-Find more information in the [compensation and benefits section of the TTS site](https://join.tts.gsa.gov/compensation-and-benefits/).
+* To learn more about the GS pay scale, visit [OPM's General Schedule Overview](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/). 
+* The current maximum salary available for the GS pay system is **$183,500**. However, you may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality.
+* Find more information in the [compensation and benefits section of the TTS site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
 **Who may apply:** All United States citizens and nationals (residents of American Samoa and Swains Islands).
 
