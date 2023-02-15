@@ -36,7 +36,7 @@ We make digital experiences better for the people who use them. We help GSA team
 | <img src="https://user-images.githubusercontent.com/6501138/192805611-fe020957-226f-4c65-844c-6536caa47ebf.png" alt="picture of Ashley Owens" width="100" height="100"> | Ashley Owens | Acquisition Strategist |
 
 ### Our work
-A few projects we've worked on can be seen in our Year 1 impact report. 
+A few projects we've worked on can be seen in our [Year 1 impact report](https://github.com/GSA/service-delivery/blob/main/GSA%20Service%20Delivery%20-%202023%20Impact%20Report.pdf). 
 
 ## How we work
 
