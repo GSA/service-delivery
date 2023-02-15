@@ -8,16 +8,16 @@ The General Services Administration's ([GSA](https://www.gsa.gov/)) Service Deli
 
 ## About us
 
-###Our mission
+### Our mission
 Deliver digital services focused on user needs. 
 
-###Who we are
+### Who we are
 We’re a cross-functional team of product managers, designers, engineers, and acquisition professionals. We’re also parents, photographers, search-and-rescuers, immigrants, hikers, gardeners, and foodies. 
 
-###What we do
+### What we do
 We make digital experiences better for the people who use them. We help GSA teams deliver solutions that are simple, effective, and accessible. We listen, collaborate, and learn. We coach and model modern software development best practices – such as iterative development, product management, user-centered design, and acquisition strategies to de-risk our work and deliver the right solutions. 
 
-###Our values
+### Our values
 - **Start small.** We work iteratively and incrementally—proving out concepts and ideas and providing value quickly rather than all at once.
 - **Show what’s possible.** We’re courageous. We take risks, try new things, and learn from our approaches to deliver solutions that are easy to use and maintain.
 - **Meet people where they are.** Whether it’s our users or our GSA partners, we start by understanding their motivations, goals, and pain points and centering our work around their needs.
