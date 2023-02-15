@@ -1,10 +1,29 @@
 # GSA Service Delivery
 
-The General Services Administration's ([GSA](https://www.gsa.gov/)) Office of the Deputy Administrator established a new GSA Service Delivery team. This cross-functional team of technical experts' mission is to evolve and expand digital service delivery capabilities across GSA to improve end-user experiences.
+The General Services Administration's ([GSA](https://www.gsa.gov/)) Service Delivery team is within the Office of the Chief Technology Officer. We partner with GSA teams to:
 
-The GSA Service Delivery team will pair with GSA programs to expand digital service capabilities and delivery of digital service to end-users. We will advocate for modern software development best practices – such as iterative development, product management, user-centered design, and acquisition strategies to support this work.
+- **Deliver value to our users.** Align projects around users’ needs to make GSA offerings better.
+- **Build organizational capacity.** Coach and empower GSA partners with the skills they need to continue the work into the future.
+- **Shape GSA practices.** Discover barriers for GSA teams trying to deliver to users and make improvements to GSA processes. 
 
-## Our team
+## About us
+
+###Our mission
+Deliver digital services focused on user needs. 
+
+###Who we are
+We’re a cross-functional team of product managers, designers, engineers, and acquisition professionals. We’re also parents, photographers, search-and-rescuers, immigrants, hikers, gardeners, and foodies. 
+
+###What we do
+We make digital experiences better for the people who use them. We help GSA teams deliver solutions that are simple, effective, and accessible. We listen, collaborate, and learn. We coach and model modern software development best practices – such as iterative development, product management, user-centered design, and acquisition strategies to de-risk our work and deliver the right solutions. 
+
+###Our values
+- **Start small.** We work iteratively and incrementally—proving out concepts and ideas and providing value quickly rather than all at once.
+- **Show what’s possible.** We’re courageous. We take risks, try new things, and learn from our approaches to deliver solutions that are easy to use and maintain.
+- **Meet people where they are.** Whether it’s our users or our GSA partners, we start by understanding their motivations, goals, and pain points and centering our work around their needs.
+
+
+### Our team
 |  | Name | Role |
 | --- | --- | --- |
 | <img src="https://user-images.githubusercontent.com/6501138/192803737-7368d567-d720-411c-b49c-5acbcddd118c.png" alt="picture of Vicki McFadden" width="100" height="100"> | Vicki McFadden | Product Manager |
@@ -16,14 +35,14 @@ The GSA Service Delivery team will pair with GSA programs to expand digital serv
 | <img src="https://user-images.githubusercontent.com/119954777/206807327-521b1022-e6d7-4a73-a124-1badd236d27d.png" alt="picture of Wei Wang" width="100" height="100"> | Wei Wang | Engineer |
 | <img src="https://user-images.githubusercontent.com/6501138/192805611-fe020957-226f-4c65-844c-6536caa47ebf.png" alt="picture of Ashley Owens" width="100" height="100"> | Ashley Owens | Acquisition Strategist |
 
-# How we work
+## How we work
 
 We advocate for modern software development best practices – such as iterative development, product management, user-centered design, and acquisition strategies to support this work.
 
 - [Goals and measures](Goals_Measures.md)
 - [Project evaluation](Project_evaluation.md)
 
-# What we need
+## What we need
 
 - [Access to code](Working_on_Your_Code.md)
 
@@ -36,14 +55,14 @@ The GSA Service Delivery team has hired six [GS-15](https://www.opm.gov/policy-d
 - [Engineers](team/engineers.md)
 - [User Experience Designers](team/User_Experience_Designer.md)
 
-## Information Session
+### Information Sessions
 
 - Spring 2022 hiring [information session deck](team/GSA_Service_Delivery_Info_Session.pdf)
 - Summer 2022 hiring [information session deck](https://github.com/GSA/service-delivery/blob/main/team/GSA%20Service%20Delivery%20_%20Info%20Session%20_%20Aug%202022.pdf)
 - Winter 2022/23 hiring [information session deck](team/GSA%20Service%20Delivery%20-%20Info%20Session_Jan%202023.pdf)
 
 
-# Questions
+## Questions
 
 Please email [servicedelivery@gsa.gov](mailto:servicedelivery@gsa.gov).
 
