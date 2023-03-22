@@ -1,6 +1,6 @@
-# GSA-wide Design Hiring
+# GSA-wide Design Hiring (Applications now closed)
 
-### The [U.S. General Services Administration (GSA)](http://gsa.gov/) is hiring designers across the agency. We’re looking for user researchers and user experience, content, service, and product designers. Designers at GSA work on improving the way our customers and the public engage and interact with GSA products, services, and programs. We’ll be hiring for a variety of design roles at the mid and senior levels (GS-13 to GS-15*). Check back here in February for the designer job posting.
+### The [U.S. General Services Administration (GSA)](http://gsa.gov/) is hiring designers across the agency. We’re looking for user researchers and user experience, content, service, and product designers. Designers at GSA work on improving the way our customers and the public engage and interact with GSA products, services, and programs. We’ll be hiring for a variety of design roles at the mid and senior levels (GS-13 to GS-15*).
 
 We are looking for candidates who are passionate about using design and technology to better serve the public. GSA is one of the [best places to work in the federal government](https://www.gsa.gov/blog/2022/12/14/gsa-gets-high-marks-in-2022-federal-employee-viewpoint-survey). We have one of the [highest ratings in employee satisfaction](https://www.gsa.gov/about-us/careers-at-gsa/why-work-at-gsa) among all government agencies.
 
