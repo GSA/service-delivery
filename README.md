@@ -58,7 +58,7 @@ The GSA Service Delivery team has hired six [GS-15](https://www.opm.gov/policy-d
 - [Engineers](team/engineers.md)
 - [User Experience Designers](team/User_Experience_Designer.md)
 
-Interviewing at GSA. 
+[Interviewing at GSA](https://github.com/GSA/service-delivery/blob/main/team/Interviewing%20at%20GSA.md). 
 
 ### Information Sessions
 
