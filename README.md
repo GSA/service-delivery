@@ -34,8 +34,8 @@ We make digital experiences better for the people who use them. We help GSA team
 | <img src="https://avatars.githubusercontent.com/u/140733922?v=4" alt="picture of Rosamund Lannin" width="100" height="100"> | Rosamund Lannin | Content Designer |
 | <img src="https://user-images.githubusercontent.com/6501138/192805221-1d0f49fe-51dd-48e1-98f6-c82408282410.png" alt="picture of Jessica Marine" width="100" height="100"> | Jessica Marine | Product Manager |
 | <img src="https://user-images.githubusercontent.com/6501138/192803737-7368d567-d720-411c-b49c-5acbcddd118c.png" alt="picture of Vicki McFadden" width="100" height="100"> | Vicki McFadden | Product Manager |
-| <a href="https://user-images.githubusercontent.com/6501138/192807385-86519c85-da0d-4822-88ae-172a1c36967f.png"><img src="https://user-images.githubusercontent.com/6501138/192804979-d26335b2-35e8-4ca6-babc-d1da0f27fead.png" alt="picture of Jenn Noinaj" width="100" height="100"></a> | Jenn Noinaj | Design Strategist |
 | <img src="https://user-images.githubusercontent.com/6501138/192805382-54c150d7-0ca7-4505-9de9-2e474b500b52.png" alt="picture of Mark Meyer" width="100" height="100"> | Mark Meyer | Engineer |
+| <a href="https://user-images.githubusercontent.com/6501138/192807385-86519c85-da0d-4822-88ae-172a1c36967f.png"><img src="https://user-images.githubusercontent.com/6501138/192804979-d26335b2-35e8-4ca6-babc-d1da0f27fead.png" alt="picture of Jenn Noinaj" width="100" height="100"></a> | Jenn Noinaj | Design Strategist |
 | <img src="https://user-images.githubusercontent.com/119954777/206807327-521b1022-e6d7-4a73-a124-1badd236d27d.png" alt="picture of Wei Wang" width="100" height="100"> | Wei Wang | Engineer |
 
 
