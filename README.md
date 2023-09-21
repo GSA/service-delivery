@@ -1,10 +1,28 @@
 # GSA Service Delivery
 
-The General Services Administration's ([GSA](https://www.gsa.gov/)) Service Delivery team is within the Office of the Chief Technology Officer. We partner with GSA teams to:
+The General Services Administration's ([GSA](https://www.gsa.gov/)) Service Delivery team is within the Office of the Chief Technology Officer. 
 
-- **Deliver value to our users.** Align projects around users’ needs to make GSA offerings better.
-- **Build organizational capacity.** Coach and empower GSA partners with the skills they need to continue the work into the future.
-- **Shape GSA practices.** Discover barriers for GSA teams trying to deliver to users and make improvements to GSA processes. 
+We partner with GSA programs to deliver digital services focused on user needs. 
+
+## What we offer
+The Service Delivery team can pair our technical expertise with your programmatic expertise. You understand your organization, project’s goals, and problems you’re hoping to address – and we can support you in achieving those goals. We see our work as a partnership, and we’ll work together to navigate complexities and solve problems. 
+- **Discovery.** All of our projects start with discovery. We need to understand user needs and pain points, program goals and objectives, and technical constraints. 
+- **Digital service delivery.** We partner with teams to design, develop, and launch digital services. Depending on a project’s goals, our work might take the form of the following:
+  - **Product management** to identify product vision, problem statement, goals, and roadmap to meet users’ needs; 
+  - **User research** to understand the needs of users to inform the design, priority, and development of solutions; 
+  - **Prototyping** to test what works, and what doesn’t, and build alignment;
+  - **Content strategy** to plan, create, and deliver content that is clear, accessible, and serves the needs and goals of the users and organization;
+  - **Product design** to create user interfaces, layouts, interactions, and information architecture based on research findings; 
+  - **Agile development** to promote flexibility and collaboration, and iteratively deliver value to users;
+  - **Usability testing** to get input from real users on how they interact with a digital product and use their feedback to iterate in design and development;
+  - **Accessibility testing** through automated tools and manual testing we can ensure solutions are accessible to all; and
+  - **DevSecOps** to build secure applications that are maintainable and easy to deploy – we can work with the GSA program and GSA security teams to get an authority to operate (ATO). 
+- **Acquisition support.** We can partner with your team to de-risk procurement by structuring contracts for user-centered design and agile delivery.
+- **Technical coaching.** Digital service development is never over – user needs change, technology changes, policy changes – and digital products need to evolve over time to meet these needs. We can work with your team to ensure they have the technical skills to manage a product long after your partnership with the Service Delivery team is over. To do this, we can provide coaching on modern software development best practices, such as product ownership, agile development, design, content strategy, and acquisition. 
+
+## Get in touch
+
+If you have questions, are interested in learning more, or would like to explore getting our team’s help on one of your projects, please contact [servicedelivery@gsa.gov](mailto:servicedelivery@gsa.gov).
 
 ## About us
 
@@ -42,14 +60,6 @@ We make digital experiences better for the people who use them. We help GSA team
 
 ### Our work
 A few projects are highlighted in our [Year 1 impact report](https://github.com/GSA/service-delivery/blob/main/GSA%20Service%20Delivery%20-%202023%20Impact%20Report.pdf). 
-
-## What we offer
-
-
-## Get in touch
-
-If you have questions or are potentially interested in getting our team’s help on one of your projects, please contact [servicedelivery@gsa.gov](mailto:servicedelivery@gsa.gov).
-
 
 ### Hiring for these positions has closed
 
