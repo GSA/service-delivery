@@ -6,7 +6,7 @@ We partner with GSA programs to deliver digital services focused on user needs.
 
 ## What we offer
 The Service Delivery team can pair our technical expertise with your programmatic expertise. You understand your organization, project’s goals, and problems you’re hoping to address – and we can support you in achieving those goals. We see our work as a partnership, and we’ll work together to navigate complexities and solve problems. 
-- **Discovery.** All of our projects start with discovery. We need to understand user needs and pain points, program goals and objectives, and technical constraints. 
+- **Discovery.** All of our projects start with discovery – so we can better understand user needs and pain points, program goals and objectives, and technical constraints. 
 - **Digital service delivery.** We partner with teams to design, develop, and launch digital services. Depending on a project’s goals, our work might take the form of the following:
   - **Product management** to identify product vision, problem statement, goals, and roadmap to meet users’ needs; 
   - **User research** to understand the needs of users to inform the design, priority, and development of solutions; 
