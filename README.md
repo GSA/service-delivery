@@ -50,11 +50,11 @@ We make digital experiences better for the people who use them. We help GSA team
 | <img src="https://user-images.githubusercontent.com/6501138/192805117-edd740f6-65a2-4eb5-98e0-006ca69363fe.png" alt="picture of Jeff Fredrickson" width="100" height="100"> | Jeff Fredrickson (he/him) | Engineer |
 | <img src="https://user-images.githubusercontent.com/6501138/192805889-95bc7dc8-3b12-492e-a7eb-3ecb2d2fac27.png" alt="picture of Ryan Johnson" width="100" height="100"> | Ryan Johnson (he/him) | Content Strategist |
 | <img src="https://avatars.githubusercontent.com/u/140733922?v=4" alt="picture of Rosamund Lannin" width="100" height="100"> | Rosamund Lannin (she/her) | Content Designer |
-| <img src="https://ca.slack-edge.com/E011QM4UN3G-U059G5UJ4E9-01c8b507b9d2-512" alt="picture of Kristen Lohman" width="100" height="100"> | Kristen Lohman (she/her) | Design Strategist |
+| <img src="https://avatars.githubusercontent.com/u/18366192?v=4" alt="picture of Kristen Lohman" width="100" height="100"> | Kristen Lohman (she/her) | Design Strategist |
 | <img src="https://user-images.githubusercontent.com/6501138/192805221-1d0f49fe-51dd-48e1-98f6-c82408282410.png" alt="picture of Jessica Marine" width="100" height="100"> | Jessica Marine (she/her) | Product Manager |
 | <img src="https://user-images.githubusercontent.com/6501138/192803737-7368d567-d720-411c-b49c-5acbcddd118c.png" alt="picture of Vicki McFadden" width="100" height="100"> | Vicki McFadden (she/her) | Product Manager |
 | <img src="https://user-images.githubusercontent.com/6501138/192805382-54c150d7-0ca7-4505-9de9-2e474b500b52.png" alt="picture of Mark Meyer" width="100" height="100"> | Mark Meyer (he/him) | Engineer |
-| <a href="https://user-images.githubusercontent.com/6501138/192807385-86519c85-da0d-4822-88ae-172a1c36967f.png"><img src="https://user-images.githubusercontent.com/6501138/192804979-d26335b2-35e8-4ca6-babc-d1da0f27fead.png" alt="picture of Jenn Noinaj" width="100" height="100"></a> | Jenn Noinaj (she/her) | Design Strategist |
+| <img src="https://user-images.githubusercontent.com/6501138/192804979-d26335b2-35e8-4ca6-babc-d1da0f27fead.png" alt="picture of Jenn Noinaj" width="100" height="100"> | Jenn Noinaj (she/her) | Design Strategist |
 | <img src="https://user-images.githubusercontent.com/119954777/206807327-521b1022-e6d7-4a73-a124-1badd236d27d.png" alt="picture of Wei Wang" width="100" height="100"> | Wei Wang (she/her) | Engineer |
 
 
