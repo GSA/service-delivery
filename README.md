@@ -59,7 +59,8 @@ We make digital experiences better for the people who use them. We help GSA team
 
 
 ### Our work
-A few projects are highlighted in our [Year 1 impact report](https://github.com/GSA/service-delivery/blob/main/GSA%20Service%20Delivery%20-%202023%20Impact%20Report.pdf). 
+- [Year 2 impact report](https://github.com/GSA/service-delivery/blob/main/GSA%20Service%20Delivery%20-%202024-Impact-Report.md)
+- [Year 1 impact report](https://github.com/GSA/service-delivery/blob/main/GSA%20Service%20Delivery%20-%202023%20Impact%20Report.pdf). 
 
 ### Hiring for these positions has closed
 
