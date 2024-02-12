@@ -1,10 +1,10 @@
-#GSA Service Delivery
+# GSA Service Delivery
 
-##Year 2 impact report
+## Year 2 impact report
 
 February 14, 2024
 
-##Quick glance
+## Quick glance
 
 - 4 launches
 - 9 projects
@@ -17,11 +17,11 @@ February 14, 2024
 - 3 team members hired
 - 75,000 hour burden reduction
 
-##Project highlights
+## Project highlights
 
-###**GSA SmartPay®** | Delivering on 21st Century IDEA
+### **GSA SmartPay®** | Delivering on 21st Century IDEA
 
-####Challenge
+#### Challenge
 
 The GSA Center for Charge Card Management (CCCM) administers the GSA SmartPay program, providing services to more than 560 federal agencies, organizations, and Native American tribal governments. 
 
@@ -29,7 +29,7 @@ The former websites experienced challenges:
 - The program website was difficult to navigate, and didn’t meet some of the requirements of the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/delivering-digital-first-public-experience/) (21st Century IDEA). The website had accumulated content over the years, making it difficult for users to find what they needed.
 - The training website experienced performance issues that disrupted user experience; and given users only needed to complete a training once every few years, many users forgot their login and password, requiring assistance from CCCM staff. 
 
-####Solution
+#### Solution
 
 We partnered with CCCM to conduct product framing, a content audit, technical discovery, and user research. 
 
@@ -37,7 +37,7 @@ In discovery, we learned of a tool built by NASA that could streamline complianc
  
 We used agile, open source development, product management, and human-centered design to prioritize functionality and develop the new sites. The sites are hosted on [cloud.gov](https://cloud.gov/) and [cloud.gov Pages](https://cloud.gov/pages/). We also helped with an [agile acquisition](https://github.com/GSA/SmartPay-RFQ/blob/main/RFQ.md) to acquire a contractor for ongoing development support.
 
-####Impact
+#### Impact
 
 The [program website](https://smartpay.gsa.gov/) represents a 75% content reduction (eliminated 500+ pages of content) to ease user experience, and provide a more intuitive information architecture. 
 
