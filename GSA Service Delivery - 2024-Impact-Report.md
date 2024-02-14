@@ -93,6 +93,10 @@ We conducted a user research study to evaluate the current state of the legacy O
 #### 🌎 Impact
 The OASIS+ web pages are intended to launch in Spring 2024. The new site will be easier for users to navigate and locate information without the need for support. Longer term, the site will be an opportunity to test a subsites design within GSA.gov with the goals of reducing the proliferation of new GSA websites, providing a tailored user experience, and easing website maintenance and associated costs. 
 
+  > “_Easy to use; information is straightforward._” 
+  >
+  > – OASIS+ potential supplier
+
 ***
 
 ## Looking ahead
