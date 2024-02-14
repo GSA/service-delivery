@@ -12,7 +12,7 @@ February 14, 2024
 - 2 contracting officers coached
 - 15 presentations on modern software development practices
 - 3 team members hired
-- 75,000 hour burden reduction
+- 75,000 hour burden reduction<br><br>
 
 ## Project highlights
 
@@ -51,9 +51,12 @@ We used agile, open source development, product management, and human-centered d
 
 - For the procurement, our team received an Acquisition Innovation in Action award from GSA’s Senior Procurement Executive.
  
-_Read more about this project in a 3-part blog series on digital.gov: [overview](https://digital.gov/2023/11/28/part-1-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/), [product ownership](https://digital.gov/2023/11/29/part-2-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/), and [content strategy](https://digital.gov/2023/11/29/part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/)._
+_Read more about this project in a 3-part blog series on digital.gov: [overview](https://digital.gov/2023/11/28/part-1-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/), [product ownership](https://digital.gov/2023/11/29/part-2-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/), and [content strategy](https://digital.gov/2023/11/29/part-3-delivering-on-21st-century-idea-a-case-study-from-the-gsa-smartpay-team/)._  
+<br>
+<br>
 
 ***
+<br>
 
 ### **GSA Fine Arts** | Making GSA’s art collection more accessible
 
@@ -77,9 +80,12 @@ The new website makes it easier for the public to navigate and engage with GSA�
 
 For this project, our team received a Customer Experience award from GSA’s Chief Information Officer. 
 
-_Read more about this project in a digital.gov [case study](https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/)._
+_Read more about this project in a digital.gov [case study](https://digital.gov/2023/12/08/making-gsa-public-art-collection-more-accessible/)._  
+<br>
+<br>
 
 ***
+<br>
 
 ### **OASIS+ subsite** | Providing a user-centered experience for a new GSA contract vehicle 
 
@@ -96,8 +102,11 @@ The OASIS+ web pages are intended to launch in Spring 2024. The new site will be
   > “_Easy to use; information is straightforward._” 
   >
   > – OASIS+ potential supplier
+<br>
+<br>
 
 ***
+<br>
 
 ## Looking ahead
 
@@ -105,8 +114,11 @@ The Service Delivery team is committed to making the experience of working with 
 
 - **Deliver value to our users.** We will continue to improve the design, content, and accessibility of GSA websites.  
 - **Structure contracts to support user needs.** Whether buying commercial off-the-shelf products or agile custom development services, we will partner with teams to help ensure new technology project acquisitions are optimized for meeting 21st Century IDEA and delivering experiences that meet user needs.
+<br>
+<br>
 
 ***
+<br>
 
 ## About us
 
