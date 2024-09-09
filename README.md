@@ -48,7 +48,6 @@ We make digital experiences better for the people who use them. We help GSA team
 | --- | --- | --- |
 | <img src="https://user-images.githubusercontent.com/6501138/192805611-fe020957-226f-4c65-844c-6536caa47ebf.png" alt="picture of Ashley Owens" width="100" height="100"> | Ashley Owens (she/her) | Acquisition Strategist |
 | <img src="https://user-images.githubusercontent.com/6501138/192805117-edd740f6-65a2-4eb5-98e0-006ca69363fe.png" alt="picture of Jeff Fredrickson" width="100" height="100"> | Jeff Fredrickson (he/him) | Engineer |
-| <img src="https://user-images.githubusercontent.com/6501138/192805889-95bc7dc8-3b12-492e-a7eb-3ecb2d2fac27.png" alt="picture of Ryan Johnson" width="100" height="100"> | Ryan Johnson (he/him) | Content Strategist |
 | <img src="https://avatars.githubusercontent.com/u/140733922?v=4" alt="picture of Rosamund Lannin" width="100" height="100"> | Rosamund Lannin (she/her) | Content Designer |
 | <img src="https://avatars.githubusercontent.com/u/18366192?v=4" alt="picture of Kristen Lohman" width="100" height="100"> | Kristen Lohman (she/her) | Design Strategist |
 | <img src="https://user-images.githubusercontent.com/6501138/192805221-1d0f49fe-51dd-48e1-98f6-c82408282410.png" alt="picture of Jessica Marine" width="100" height="100"> | Jessica Marine (she/her) | Product Manager |
