@@ -46,7 +46,6 @@ We make digital experiences better for the people who use them. We help GSA team
 ### Our team
 |  | Name | Role |
 | --- | --- | --- |
-| <img src="https://user-images.githubusercontent.com/6501138/192805611-fe020957-226f-4c65-844c-6536caa47ebf.png" alt="picture of Ashley Owens" width="100" height="100"> | Ashley Owens | Acquisition Strategist |
 | <img src="https://user-images.githubusercontent.com/6501138/192805117-edd740f6-65a2-4eb5-98e0-006ca69363fe.png" alt="picture of Jeff Fredrickson" width="100" height="100"> | Jeff Fredrickson | Engineer |
 | <img src="https://avatars.githubusercontent.com/u/18366192?v=4" alt="picture of Kristen Lohman" width="100" height="100"> | Kristen Lohman | Design Strategist |
 | <img src="https://user-images.githubusercontent.com/6501138/192805382-54c150d7-0ca7-4505-9de9-2e474b500b52.png" alt="picture of Mark Meyer" width="100" height="100"> | Mark Meyer | Engineer |
